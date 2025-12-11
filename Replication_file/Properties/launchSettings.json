@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Replication_file": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7070",
+      "launchBrowser": false
+    }
+  }
+}
